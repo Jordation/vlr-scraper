@@ -1,0 +1,9 @@
+{
+    "workbench.colorCustomizations": {
+        "punctuation.definition.string.end.js": "D6FEF1",
+        "punctuation.definition.string.begin.js": "D6FEF1",
+        "activityBar.background": "#212D49",
+        "titleBar.activeBackground": "#2E3F67",
+        "titleBar.activeForeground": "#F8FAFC"
+    }
+}
